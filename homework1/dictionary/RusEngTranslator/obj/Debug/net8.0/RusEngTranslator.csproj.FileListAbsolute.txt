@@ -1,0 +1,15 @@
+C:\Users\Redmi\Desktop\travelline_practice\homework1\dictionary\RusEngTranslator\bin\Debug\net8.0\RusEngTranslator.exe
+C:\Users\Redmi\Desktop\travelline_practice\homework1\dictionary\RusEngTranslator\bin\Debug\net8.0\RusEngTranslator.deps.json
+C:\Users\Redmi\Desktop\travelline_practice\homework1\dictionary\RusEngTranslator\bin\Debug\net8.0\RusEngTranslator.runtimeconfig.json
+C:\Users\Redmi\Desktop\travelline_practice\homework1\dictionary\RusEngTranslator\bin\Debug\net8.0\RusEngTranslator.dll
+C:\Users\Redmi\Desktop\travelline_practice\homework1\dictionary\RusEngTranslator\bin\Debug\net8.0\RusEngTranslator.pdb
+C:\Users\Redmi\Desktop\travelline_practice\homework1\dictionary\RusEngTranslator\obj\Debug\net8.0\RusEngTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Redmi\Desktop\travelline_practice\homework1\dictionary\RusEngTranslator\obj\Debug\net8.0\RusEngTranslator.AssemblyInfoInputs.cache
+C:\Users\Redmi\Desktop\travelline_practice\homework1\dictionary\RusEngTranslator\obj\Debug\net8.0\RusEngTranslator.AssemblyInfo.cs
+C:\Users\Redmi\Desktop\travelline_practice\homework1\dictionary\RusEngTranslator\obj\Debug\net8.0\RusEngTranslator.csproj.CoreCompileInputs.cache
+C:\Users\Redmi\Desktop\travelline_practice\homework1\dictionary\RusEngTranslator\obj\Debug\net8.0\RusEngTranslator.sourcelink.json
+C:\Users\Redmi\Desktop\travelline_practice\homework1\dictionary\RusEngTranslator\obj\Debug\net8.0\RusEngTranslator.dll
+C:\Users\Redmi\Desktop\travelline_practice\homework1\dictionary\RusEngTranslator\obj\Debug\net8.0\refint\RusEngTranslator.dll
+C:\Users\Redmi\Desktop\travelline_practice\homework1\dictionary\RusEngTranslator\obj\Debug\net8.0\RusEngTranslator.pdb
+C:\Users\Redmi\Desktop\travelline_practice\homework1\dictionary\RusEngTranslator\obj\Debug\net8.0\RusEngTranslator.genruntimeconfig.cache
+C:\Users\Redmi\Desktop\travelline_practice\homework1\dictionary\RusEngTranslator\obj\Debug\net8.0\ref\RusEngTranslator.dll
