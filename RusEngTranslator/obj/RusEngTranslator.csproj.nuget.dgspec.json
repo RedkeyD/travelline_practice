@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Redmi\\Desktop\\travelline_practice\\homework1\\dictionary\\RusEngTranslator\\RusEngTranslator.csproj": {}
+    "C:\\Users\\Redmi\\Desktop\\travelline_practice\\RusEngTranslator\\RusEngTranslator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Redmi\\Desktop\\travelline_practice\\homework1\\dictionary\\RusEngTranslator\\RusEngTranslator.csproj": {
+    "C:\\Users\\Redmi\\Desktop\\travelline_practice\\RusEngTranslator\\RusEngTranslator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Redmi\\Desktop\\travelline_practice\\homework1\\dictionary\\RusEngTranslator\\RusEngTranslator.csproj",
+        "projectUniqueName": "C:\\Users\\Redmi\\Desktop\\travelline_practice\\RusEngTranslator\\RusEngTranslator.csproj",
         "projectName": "RusEngTranslator",
-        "projectPath": "C:\\Users\\Redmi\\Desktop\\travelline_practice\\homework1\\dictionary\\RusEngTranslator\\RusEngTranslator.csproj",
+        "projectPath": "C:\\Users\\Redmi\\Desktop\\travelline_practice\\RusEngTranslator\\RusEngTranslator.csproj",
         "packagesPath": "C:\\Users\\Redmi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Redmi\\Desktop\\travelline_practice\\homework1\\dictionary\\RusEngTranslator\\obj\\",
+        "outputPath": "C:\\Users\\Redmi\\Desktop\\travelline_practice\\RusEngTranslator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Redmi\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Redmi\\Desktop\\travelline_practice\\FighterGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48E27EE6-8C5D-4DF3-9F44-7687ED44CF6D}|Fighters\\Fighters.csproj|c:\\users\\redmi\\desktop\\travelline_practice\\fightergame\\fighters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E27EE6-8C5D-4DF3-9F44-7687ED44CF6D}|Fighters\\Fighters.csproj|solutionrelative:fighters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E27EE6-8C5D-4DF3-9F44-7687ED44CF6D}|Fighters\\Fighters.csproj|c:\\users\\redmi\\desktop\\travelline_practice\\fightergame\\fighters\\models\\weapons\\noweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E27EE6-8C5D-4DF3-9F44-7687ED44CF6D}|Fighters\\Fighters.csproj|solutionrelative:fighters\\models\\weapons\\noweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E27EE6-8C5D-4DF3-9F44-7687ED44CF6D}|Fighters\\Fighters.csproj|c:\\users\\redmi\\desktop\\travelline_practice\\fightergame\\fighters\\models\\weapons\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E27EE6-8C5D-4DF3-9F44-7687ED44CF6D}|Fighters\\Fighters.csproj|solutionrelative:fighters\\models\\weapons\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E27EE6-8C5D-4DF3-9F44-7687ED44CF6D}|Fighters\\Fighters.csproj|c:\\users\\redmi\\desktop\\travelline_practice\\fightergame\\fighters\\models\\races\\irace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E27EE6-8C5D-4DF3-9F44-7687ED44CF6D}|Fighters\\Fighters.csproj|solutionrelative:fighters\\models\\races\\irace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E27EE6-8C5D-4DF3-9F44-7687ED44CF6D}|Fighters\\Fighters.csproj|c:\\users\\redmi\\desktop\\travelline_practice\\fightergame\\fighters\\models\\races\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E27EE6-8C5D-4DF3-9F44-7687ED44CF6D}|Fighters\\Fighters.csproj|solutionrelative:fighters\\models\\races\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E27EE6-8C5D-4DF3-9F44-7687ED44CF6D}|Fighters\\Fighters.csproj|c:\\users\\redmi\\desktop\\travelline_practice\\fightergame\\fighters\\models\\fighters\\ifighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E27EE6-8C5D-4DF3-9F44-7687ED44CF6D}|Fighters\\Fighters.csproj|solutionrelative:fighters\\models\\fighters\\ifighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E27EE6-8C5D-4DF3-9F44-7687ED44CF6D}|Fighters\\Fighters.csproj|c:\\users\\redmi\\desktop\\travelline_practice\\fightergame\\fighters\\models\\fighters\\fighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E27EE6-8C5D-4DF3-9F44-7687ED44CF6D}|Fighters\\Fighters.csproj|solutionrelative:fighters\\models\\fighters\\fighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E27EE6-8C5D-4DF3-9F44-7687ED44CF6D}|Fighters\\Fighters.csproj|c:\\users\\redmi\\desktop\\travelline_practice\\fightergame\\fighters\\models\\armors\\noarmor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E27EE6-8C5D-4DF3-9F44-7687ED44CF6D}|Fighters\\Fighters.csproj|solutionrelative:fighters\\models\\armors\\noarmor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E27EE6-8C5D-4DF3-9F44-7687ED44CF6D}|Fighters\\Fighters.csproj|c:\\users\\redmi\\desktop\\travelline_practice\\fightergame\\fighters\\models\\armors\\iarmor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E27EE6-8C5D-4DF3-9F44-7687ED44CF6D}|Fighters\\Fighters.csproj|solutionrelative:fighters\\models\\armors\\iarmor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 40,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NoWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\Redmi\\Desktop\\travelline_practice\\FighterGame\\Fighters\\Models\\Weapons\\NoWeapon.cs",
+              "RelativeDocumentMoniker": "Fighters\\Models\\Weapons\\NoWeapon.cs",
+              "ToolTip": "C:\\Users\\Redmi\\Desktop\\travelline_practice\\FighterGame\\Fighters\\Models\\Weapons\\NoWeapon.cs",
+              "RelativeToolTip": "Fighters\\Models\\Weapons\\NoWeapon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T08:18:44.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\Redmi\\Desktop\\travelline_practice\\FighterGame\\Fighters\\Models\\Weapons\\IWeapon.cs",
+              "RelativeDocumentMoniker": "Fighters\\Models\\Weapons\\IWeapon.cs",
+              "ToolTip": "C:\\Users\\Redmi\\Desktop\\travelline_practice\\FighterGame\\Fighters\\Models\\Weapons\\IWeapon.cs",
+              "RelativeToolTip": "Fighters\\Models\\Weapons\\IWeapon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T08:18:34.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRace.cs",
+              "DocumentMoniker": "C:\\Users\\Redmi\\Desktop\\travelline_practice\\FighterGame\\Fighters\\Models\\Races\\IRace.cs",
+              "RelativeDocumentMoniker": "Fighters\\Models\\Races\\IRace.cs",
+              "ToolTip": "C:\\Users\\Redmi\\Desktop\\travelline_practice\\FighterGame\\Fighters\\Models\\Races\\IRace.cs",
+              "RelativeToolTip": "Fighters\\Models\\Races\\IRace.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T08:18:23.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Human.cs",
+              "DocumentMoniker": "C:\\Users\\Redmi\\Desktop\\travelline_practice\\FighterGame\\Fighters\\Models\\Races\\Human.cs",
+              "RelativeDocumentMoniker": "Fighters\\Models\\Races\\Human.cs",
+              "ToolTip": "C:\\Users\\Redmi\\Desktop\\travelline_practice\\FighterGame\\Fighters\\Models\\Races\\Human.cs",
+              "RelativeToolTip": "Fighters\\Models\\Races\\Human.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T08:18:15.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFighter.cs",
+              "DocumentMoniker": "C:\\Users\\Redmi\\Desktop\\travelline_practice\\FighterGame\\Fighters\\Models\\Fighters\\IFighter.cs",
+              "RelativeDocumentMoniker": "Fighters\\Models\\Fighters\\IFighter.cs",
+              "ToolTip": "C:\\Users\\Redmi\\Desktop\\travelline_practice\\FighterGame\\Fighters\\Models\\Fighters\\IFighter.cs",
+              "RelativeToolTip": "Fighters\\Models\\Fighters\\IFighter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T08:17:58.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Fighter.cs",
+              "DocumentMoniker": "C:\\Users\\Redmi\\Desktop\\travelline_practice\\FighterGame\\Fighters\\Models\\Fighters\\Fighter.cs",
+              "RelativeDocumentMoniker": "Fighters\\Models\\Fighters\\Fighter.cs",
+              "ToolTip": "C:\\Users\\Redmi\\Desktop\\travelline_practice\\FighterGame\\Fighters\\Models\\Fighters\\Fighter.cs",
+              "RelativeToolTip": "Fighters\\Models\\Fighters\\Fighter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T08:17:37.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NoArmor.cs",
+              "DocumentMoniker": "C:\\Users\\Redmi\\Desktop\\travelline_practice\\FighterGame\\Fighters\\Models\\Armors\\NoArmor.cs",
+              "RelativeDocumentMoniker": "Fighters\\Models\\Armors\\NoArmor.cs",
+              "ToolTip": "C:\\Users\\Redmi\\Desktop\\travelline_practice\\FighterGame\\Fighters\\Models\\Armors\\NoArmor.cs",
+              "RelativeToolTip": "Fighters\\Models\\Armors\\NoArmor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T08:17:02.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IArmor.cs",
+              "DocumentMoniker": "C:\\Users\\Redmi\\Desktop\\travelline_practice\\FighterGame\\Fighters\\Models\\Armors\\IArmor.cs",
+              "RelativeDocumentMoniker": "Fighters\\Models\\Armors\\IArmor.cs",
+              "ToolTip": "C:\\Users\\Redmi\\Desktop\\travelline_practice\\FighterGame\\Fighters\\Models\\Armors\\IArmor.cs",
+              "RelativeToolTip": "Fighters\\Models\\Armors\\IArmor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T08:16:28.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Redmi\\Desktop\\travelline_practice\\FighterGame\\Fighters\\Program.cs",
+              "RelativeDocumentMoniker": "Fighters\\Program.cs",
+              "ToolTip": "C:\\Users\\Redmi\\Desktop\\travelline_practice\\FighterGame\\Fighters\\Program.cs",
+              "RelativeToolTip": "Fighters\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T07:58:51.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

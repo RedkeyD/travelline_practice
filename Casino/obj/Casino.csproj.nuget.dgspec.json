@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Redmi\\Desktop\\travelline_practice\\lecture1(14.03)\\test\\Market\\Casino.csproj": {}
+    "C:\\Users\\Redmi\\Desktop\\travelline_practice\\Casino\\Casino.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Redmi\\Desktop\\travelline_practice\\lecture1(14.03)\\test\\Market\\Casino.csproj": {
+    "C:\\Users\\Redmi\\Desktop\\travelline_practice\\Casino\\Casino.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Redmi\\Desktop\\travelline_practice\\lecture1(14.03)\\test\\Market\\Casino.csproj",
+        "projectUniqueName": "C:\\Users\\Redmi\\Desktop\\travelline_practice\\Casino\\Casino.csproj",
         "projectName": "Casino",
-        "projectPath": "C:\\Users\\Redmi\\Desktop\\travelline_practice\\lecture1(14.03)\\test\\Market\\Casino.csproj",
+        "projectPath": "C:\\Users\\Redmi\\Desktop\\travelline_practice\\Casino\\Casino.csproj",
         "packagesPath": "C:\\Users\\Redmi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Redmi\\Desktop\\travelline_practice\\lecture1(14.03)\\test\\Market\\obj\\",
+        "outputPath": "C:\\Users\\Redmi\\Desktop\\travelline_practice\\Casino\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Redmi\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RusEngTranslator
-build_property.ProjectDir = C:\Users\Redmi\Desktop\travelline_practice\homework1\dictionary\RusEngTranslator\
+build_property.ProjectDir = C:\Users\Redmi\Desktop\travelline_practice\RusEngTranslator\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
