@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lection1", "Lection1", "{007ECED4-CED4-4E94-B3B3-D1065A312775}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lection2", "Lection2", "{0EDA3F09-4829-42DE-919E-80E7A3102A72}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Homework1", "Homework1", "{9AB5B708-8E56-4E18-BBF6-2472419C3E1A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Homework2", "Homework2", "{8332C977-1DB4-4670-87A7-DD5BB1D50C76}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Homework2.1", "Homework2.1", "{DF591987-2C9D-4CCA-99EE-39E8EBA8AAC1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Homework2.2", "Homework2.2", "{9A63EA9F-88BC-4318-AD3B-53B98D8E2484}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Casino", "Lection1\Casino\Casino.csproj", "{70005310-CBFC-41AD-9B8C-BF438BF8971B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fighters", "Lection2\FighterGame\Fighters\Fighters.csproj", "{CC5E3ADE-BDFA-4C3F-96D8-491B3379C197}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RusEngTranslator", "Homework1\RusEngTranslator\RusEngTranslator.csproj", "{40E9B51C-7283-4F47-94F9-FDCCE16C6940}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70005310-CBFC-41AD-9B8C-BF438BF8971B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70005310-CBFC-41AD-9B8C-BF438BF8971B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70005310-CBFC-41AD-9B8C-BF438BF8971B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70005310-CBFC-41AD-9B8C-BF438BF8971B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC5E3ADE-BDFA-4C3F-96D8-491B3379C197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5E3ADE-BDFA-4C3F-96D8-491B3379C197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5E3ADE-BDFA-4C3F-96D8-491B3379C197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5E3ADE-BDFA-4C3F-96D8-491B3379C197}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40E9B51C-7283-4F47-94F9-FDCCE16C6940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40E9B51C-7283-4F47-94F9-FDCCE16C6940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40E9B51C-7283-4F47-94F9-FDCCE16C6940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40E9B51C-7283-4F47-94F9-FDCCE16C6940}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DF591987-2C9D-4CCA-99EE-39E8EBA8AAC1} = {8332C977-1DB4-4670-87A7-DD5BB1D50C76}
+		{9A63EA9F-88BC-4318-AD3B-53B98D8E2484} = {8332C977-1DB4-4670-87A7-DD5BB1D50C76}
+		{70005310-CBFC-41AD-9B8C-BF438BF8971B} = {007ECED4-CED4-4E94-B3B3-D1065A312775}
+		{CC5E3ADE-BDFA-4C3F-96D8-491B3379C197} = {0EDA3F09-4829-42DE-919E-80E7A3102A72}
+		{40E9B51C-7283-4F47-94F9-FDCCE16C6940} = {9AB5B708-8E56-4E18-BBF6-2472419C3E1A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45344810-9585-4EEB-90BB-517DD1BD3ACA}
+	EndGlobalSection
+EndGlobal
