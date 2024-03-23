@@ -1,3 +1,0 @@
-﻿apple:яблоко
-banana:банан
-orange:апельсин
