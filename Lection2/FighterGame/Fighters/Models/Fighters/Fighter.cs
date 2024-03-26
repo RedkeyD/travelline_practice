@@ -12,13 +12,15 @@ public class Fighter : IFighter
     public string Name { get; }
 
     public IRace Race { get; }
-    public IWeapon Weapon { get; private set; } = new NoWeapon();
-    public IArmor Armor { get; private set; } = new NoArmor();
+    public IWeapon Weapon { get; } 
+    public IArmor Armor { get; } 
 
-    public Fighter( string name, IRace race )
+    public Fighter( string name, IRace race, IWeapon weapon, IArmor armor )
     {
         Name = name;
         Race = race;
+        Weapon = weapon;
+        Armor = armor;
         CurrentHealth = MaxHealth;
     }
 
