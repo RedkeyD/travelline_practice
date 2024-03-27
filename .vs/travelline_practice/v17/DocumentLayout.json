@@ -37,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CC5E3ADE-BDFA-4C3F-96D8-491B3379C197}|Lection2\\FighterGame\\Fighters\\Fighters.csproj|c:\\users\\redmi\\desktop\\travelline_practice\\lection2\\fightergame\\fighters\\models\\races\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC5E3ADE-BDFA-4C3F-96D8-491B3379C197}|Lection2\\FighterGame\\Fighters\\Fighters.csproj|solutionrelative:lection2\\fightergame\\fighters\\models\\races\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Redmi\\Desktop\\travelline_practice\\Lection2\\FighterGame\\Fighters\\GameMaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lection2\\FighterGame\\Fighters\\GameMaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -288,18 +284,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-25T20:41:01.328Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GameMaster.cs",
-              "DocumentMoniker": "C:\\Users\\Redmi\\Desktop\\travelline_practice\\Lection2\\FighterGame\\Fighters\\GameMaster.cs",
-              "RelativeDocumentMoniker": "Lection2\\FighterGame\\Fighters\\GameMaster.cs",
-              "ToolTip": "C:\\Users\\Redmi\\Desktop\\travelline_practice\\Lection2\\FighterGame\\Fighters\\GameMaster.cs",
-              "RelativeToolTip": "Lection2\\FighterGame\\Fighters\\GameMaster.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:21:59.204Z"
             }
           ]
         },
